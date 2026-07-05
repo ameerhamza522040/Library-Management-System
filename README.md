@@ -91,9 +91,25 @@ git clone https://github.com/ameerhamza522040/Library-Management-System.git
 
 ## 📸 Screenshots
 
-> Screenshots will be added soon.
+### Login Page
+![Login](Screenshots/login.png)
 
----
+### Dashboard
+![Dashboard](Screenshots/A_dashboard(1).png)
+![Dashboard](Screenshots/A_dashboard(2).png)
+![Dashboard](Screenshots/S_dashboard.png)
+
+### Manage Books
+![Books](Screenshots/M_books.png)
+
+### Manage Students
+![Students](Screenshots/M_Students.png)
+
+### Manage Requests
+![Issue Book](Screenshots/Manage_Requests.png)
+
+### Return Book
+![Return Book](Screenshots/return-book.png)
 
 ## 📚 Learning Outcomes
 
