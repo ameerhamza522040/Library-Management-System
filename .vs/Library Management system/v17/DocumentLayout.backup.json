@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\Library Management system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51E0E84-D2F5-43AC-B400-2A4AE515EFC9}|Library Management system\\Library Management system.csproj|e:\\visual studio\\library management system\\library management system\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{C51E0E84-D2F5-43AC-B400-2A4AE515EFC9}|Library Management system\\Library Management system.csproj|solutionrelative:library management system\\main.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.aspx",
+              "DocumentMoniker": "E:\\Visual Studio\\Library Management system\\Library Management system\\Main.aspx",
+              "RelativeDocumentMoniker": "Library Management system\\Main.aspx",
+              "ToolTip": "E:\\Visual Studio\\Library Management system\\Library Management system\\Main.aspx",
+              "RelativeToolTip": "Library Management system\\Main.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-05T05:30:11.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
