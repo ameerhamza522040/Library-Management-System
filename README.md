@@ -105,6 +105,9 @@ git clone https://github.com/ameerhamza522040/Library-Management-System.git
 ### Manage Students
 ![Students](Screenshots/M_Students.png)
 
+### Manage Requests
+![Requests](Screenshots/M_Requests.jpg)
+
 ## 📚 Learning Outcomes
 
 Through this project, I learned:
