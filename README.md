@@ -111,6 +111,8 @@ Through this project, I learned:
 - Git & GitHub Basics
 
 ---
+## Important Note
+Database is not included in this repository. Please create the database and update the connection string in Web.config before running the project.
 
 ## 🔮 Future Improvements
 
