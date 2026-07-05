@@ -100,7 +100,7 @@ git clone https://github.com/ameerhamza522040/Library-Management-System.git
 ![Dashboard](Screenshots/S_dashboard.png)
 
 ### Manage Books
-![Books](Screenshots/M_books.png)
+![Books](Screenshots/M_Books.png)
 
 ### Manage Students
 ![Students](Screenshots/M_Students.png)
